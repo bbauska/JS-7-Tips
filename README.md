@@ -1,8 +1,6 @@
 # JS-7-Tips
 7 Tips for Becoming a Competent JavaScript Developer.
 
-Tips for Becoming a Competent JavaScript Developer
-
 1. Understand Plain JavaScript: 
 Understanding core principles like scopes, closures, syntax, etc., is crucial but easily 
 discounted by developers who focus on learning popular tools and frameworks like React, 
